@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/bin/Debug/net6.0/3.Ders.Console
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/bin/Debug/net6.0/3.Ders.Console.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/bin/Debug/net6.0/3.Ders.Console.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/bin/Debug/net6.0/3.Ders.Console.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/bin/Debug/net6.0/ref/3.Ders.Console.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/bin/Debug/net6.0/3.Ders.Console.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/ref/3.Ders.Console.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/3.Ders.Console/obj/Debug/net6.0/3.Ders.Console.genruntimeconfig.cache
