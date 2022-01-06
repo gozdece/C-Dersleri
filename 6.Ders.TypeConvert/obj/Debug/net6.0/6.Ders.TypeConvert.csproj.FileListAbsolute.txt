@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/bin/Debug/net6.0/6.Ders.TypeConvert
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/bin/Debug/net6.0/6.Ders.TypeConvert.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/bin/Debug/net6.0/6.Ders.TypeConvert.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/bin/Debug/net6.0/6.Ders.TypeConvert.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/bin/Debug/net6.0/ref/6.Ders.TypeConvert.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/bin/Debug/net6.0/6.Ders.TypeConvert.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/ref/6.Ders.TypeConvert.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/6.Ders.TypeConvert/obj/Debug/net6.0/6.Ders.TypeConvert.genruntimeconfig.cache
