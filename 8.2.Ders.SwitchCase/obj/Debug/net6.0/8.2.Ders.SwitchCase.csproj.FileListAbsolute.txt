@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/bin/Debug/net6.0/8.2.Ders.SwitchCase
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/bin/Debug/net6.0/8.2.Ders.SwitchCase.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/bin/Debug/net6.0/8.2.Ders.SwitchCase.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/bin/Debug/net6.0/8.2.Ders.SwitchCase.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/bin/Debug/net6.0/ref/8.2.Ders.SwitchCase.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/bin/Debug/net6.0/8.2.Ders.SwitchCase.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/ref/8.2.Ders.SwitchCase.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.2.Ders.SwitchCase/obj/Debug/net6.0/8.2.Ders.SwitchCase.genruntimeconfig.cache
