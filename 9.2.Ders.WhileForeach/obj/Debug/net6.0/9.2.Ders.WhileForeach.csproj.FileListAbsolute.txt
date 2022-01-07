@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/bin/Debug/net6.0/9.2.Ders.WhileForeach
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/bin/Debug/net6.0/9.2.Ders.WhileForeach.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/bin/Debug/net6.0/9.2.Ders.WhileForeach.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/bin/Debug/net6.0/9.2.Ders.WhileForeach.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/bin/Debug/net6.0/ref/9.2.Ders.WhileForeach.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/bin/Debug/net6.0/9.2.Ders.WhileForeach.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/ref/9.2.Ders.WhileForeach.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/9.2.Ders.WhileForeach/obj/Debug/net6.0/9.2.Ders.WhileForeach.genruntimeconfig.cache
