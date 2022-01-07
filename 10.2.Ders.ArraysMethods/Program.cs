@@ -2,6 +2,7 @@
 
 int[] dizi = {1,7,23,4,18,86,42};
 
+//Sort
 System.Console.WriteLine("Sırasız dizi");
 foreach (var item in dizi)
 {
