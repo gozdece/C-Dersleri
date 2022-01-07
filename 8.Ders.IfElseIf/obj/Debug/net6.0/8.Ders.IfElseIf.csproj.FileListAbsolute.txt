@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/bin/Debug/net6.0/8.Ders.IfElseIf
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/bin/Debug/net6.0/8.Ders.IfElseIf.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/bin/Debug/net6.0/8.Ders.IfElseIf.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/bin/Debug/net6.0/8.Ders.IfElseIf.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/bin/Debug/net6.0/ref/8.Ders.IfElseIf.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/bin/Debug/net6.0/8.Ders.IfElseIf.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/ref/8.Ders.IfElseIf.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/8.Ders.IfElseIf/obj/Debug/net6.0/8.Ders.IfElseIf.genruntimeconfig.cache
