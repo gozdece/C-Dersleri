@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/bin/Debug/net6.0/10.Ders.Arrays
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/bin/Debug/net6.0/10.Ders.Arrays.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/bin/Debug/net6.0/10.Ders.Arrays.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/bin/Debug/net6.0/10.Ders.Arrays.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/bin/Debug/net6.0/ref/10.Ders.Arrays.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/bin/Debug/net6.0/10.Ders.Arrays.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/ref/10.Ders.Arrays.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.Ders.Arrays/obj/Debug/net6.0/10.Ders.Arrays.genruntimeconfig.cache
