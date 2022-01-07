@@ -1,0 +1,15 @@
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\bin\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.exe
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\bin\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.deps.json
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\bin\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.runtimeconfig.json
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\bin\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.dll
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\bin\Debug\net6.0\ref\11.3.Ders.RecursiveExtensionMethods.dll
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\bin\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.pdb
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.AssemblyInfo.cs
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.dll
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\ref\11.3.Ders.RecursiveExtensionMethods.dll
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.pdb
+C:\Users\gozde\C-Dersleri\11.3.Ders.RecursiveExtensionMethods\obj\Debug\net6.0\11.3.Ders.RecursiveExtensionMethods.genruntimeconfig.cache
