@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/bin/Debug/net6.0/7.Ders.TryCatch
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/bin/Debug/net6.0/7.Ders.TryCatch.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/bin/Debug/net6.0/7.Ders.TryCatch.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/bin/Debug/net6.0/7.Ders.TryCatch.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/bin/Debug/net6.0/ref/7.Ders.TryCatch.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/bin/Debug/net6.0/7.Ders.TryCatch.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/ref/7.Ders.TryCatch.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/7.Ders.TryCatch/obj/Debug/net6.0/7.Ders.TryCatch.genruntimeconfig.cache
