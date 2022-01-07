@@ -1,0 +1,15 @@
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/bin/Debug/net6.0/10.2.Ders.ArraysMethods
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/bin/Debug/net6.0/10.2.Ders.ArraysMethods.deps.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/bin/Debug/net6.0/10.2.Ders.ArraysMethods.runtimeconfig.json
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/bin/Debug/net6.0/10.2.Ders.ArraysMethods.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/bin/Debug/net6.0/ref/10.2.Ders.ArraysMethods.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/bin/Debug/net6.0/10.2.Ders.ArraysMethods.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.csproj.AssemblyReference.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.AssemblyInfoInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.AssemblyInfo.cs
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.csproj.CoreCompileInputs.cache
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/ref/10.2.Ders.ArraysMethods.dll
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.pdb
+/Users/graphic_1/Desktop/gozde/C#Dersleri/10.2.Ders.ArraysMethods/obj/Debug/net6.0/10.2.Ders.ArraysMethods.genruntimeconfig.cache
