@@ -1,0 +1,15 @@
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\bin\Debug\net6.0\16.1.Ders.Class.exe
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\bin\Debug\net6.0\16.1.Ders.Class.deps.json
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\bin\Debug\net6.0\16.1.Ders.Class.runtimeconfig.json
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\bin\Debug\net6.0\16.1.Ders.Class.dll
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\bin\Debug\net6.0\ref\16.1.Ders.Class.dll
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\bin\Debug\net6.0\16.1.Ders.Class.pdb
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.csproj.AssemblyReference.cache
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.AssemblyInfoInputs.cache
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.AssemblyInfo.cs
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.csproj.CoreCompileInputs.cache
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.dll
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\ref\16.1.Ders.Class.dll
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.pdb
+C:\Users\gozde\C-Dersleri\16.1.Ders.Class\obj\Debug\net6.0\16.1.Ders.Class.genruntimeconfig.cache
