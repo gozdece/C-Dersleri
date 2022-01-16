@@ -1,0 +1,15 @@
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\bin\Debug\net6.0\16.3.Ders.Encapsulation.exe
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\bin\Debug\net6.0\16.3.Ders.Encapsulation.deps.json
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\bin\Debug\net6.0\16.3.Ders.Encapsulation.runtimeconfig.json
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\bin\Debug\net6.0\16.3.Ders.Encapsulation.dll
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\bin\Debug\net6.0\ref\16.3.Ders.Encapsulation.dll
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\bin\Debug\net6.0\16.3.Ders.Encapsulation.pdb
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.csproj.AssemblyReference.cache
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.AssemblyInfoInputs.cache
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.AssemblyInfo.cs
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.dll
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\ref\16.3.Ders.Encapsulation.dll
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.pdb
+C:\Users\gozde\C-Dersleri\16.3.Ders.Encapsulation\obj\Debug\net6.0\16.3.Ders.Encapsulation.genruntimeconfig.cache
