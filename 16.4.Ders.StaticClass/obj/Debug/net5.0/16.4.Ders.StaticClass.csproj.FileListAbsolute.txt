@@ -1,0 +1,15 @@
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/bin/Debug/net5.0/16.4.Ders.StaticClass.deps.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/bin/Debug/net5.0/16.4.Ders.StaticClass.runtimeconfig.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/bin/Debug/net5.0/16.4.Ders.StaticClass.runtimeconfig.dev.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/bin/Debug/net5.0/16.4.Ders.StaticClass.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/bin/Debug/net5.0/ref/16.4.Ders.StaticClass.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/bin/Debug/net5.0/16.4.Ders.StaticClass.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.csproj.AssemblyReference.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.AssemblyInfoInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.AssemblyInfo.cs
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.csproj.CoreCompileInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/ref/16.4.Ders.StaticClass.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/16.4.Ders.StaticClass/obj/Debug/net5.0/16.4.Ders.StaticClass.genruntimeconfig.cache
