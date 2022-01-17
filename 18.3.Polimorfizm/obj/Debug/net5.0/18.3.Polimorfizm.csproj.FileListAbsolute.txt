@@ -1,0 +1,15 @@
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/bin/Debug/net5.0/18.3.Polimorfizm.deps.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/bin/Debug/net5.0/18.3.Polimorfizm.runtimeconfig.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/bin/Debug/net5.0/18.3.Polimorfizm.runtimeconfig.dev.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/bin/Debug/net5.0/18.3.Polimorfizm.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/bin/Debug/net5.0/ref/18.3.Polimorfizm.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/bin/Debug/net5.0/18.3.Polimorfizm.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.csproj.AssemblyReference.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.AssemblyInfoInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.AssemblyInfo.cs
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.csproj.CoreCompileInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/ref/18.3.Polimorfizm.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.3.Polimorfizm/obj/Debug/net5.0/18.3.Polimorfizm.genruntimeconfig.cache
