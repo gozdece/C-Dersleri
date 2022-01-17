@@ -1,0 +1,15 @@
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/bin/Debug/net5.0/18.2.Inheritance.deps.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/bin/Debug/net5.0/18.2.Inheritance.runtimeconfig.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/bin/Debug/net5.0/18.2.Inheritance.runtimeconfig.dev.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/bin/Debug/net5.0/18.2.Inheritance.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/bin/Debug/net5.0/ref/18.2.Inheritance.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/bin/Debug/net5.0/18.2.Inheritance.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.csproj.AssemblyReference.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.AssemblyInfoInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.AssemblyInfo.cs
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.csproj.CoreCompileInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/ref/18.2.Inheritance.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/18.2.Inheritance/obj/Debug/net5.0/18.2.Inheritance.genruntimeconfig.cache
