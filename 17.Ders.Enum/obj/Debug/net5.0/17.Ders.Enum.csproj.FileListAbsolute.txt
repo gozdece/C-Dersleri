@@ -1,0 +1,15 @@
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/bin/Debug/net5.0/17.Ders.Enum.deps.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/bin/Debug/net5.0/17.Ders.Enum.runtimeconfig.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/bin/Debug/net5.0/17.Ders.Enum.runtimeconfig.dev.json
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/bin/Debug/net5.0/17.Ders.Enum.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/bin/Debug/net5.0/ref/17.Ders.Enum.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/bin/Debug/net5.0/17.Ders.Enum.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.csproj.AssemblyReference.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.AssemblyInfoInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.AssemblyInfo.cs
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.csproj.CoreCompileInputs.cache
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/ref/17.Ders.Enum.dll
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.pdb
+/Users/gozdecengiz/Desktop/gozde/C#Dersleri/17.Ders.Enum/obj/Debug/net5.0/17.Ders.Enum.genruntimeconfig.cache
