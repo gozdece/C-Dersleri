@@ -1,0 +1,15 @@
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\bin\Debug\net6.0\16.2.Ders.Constructors.exe
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\bin\Debug\net6.0\16.2.Ders.Constructors.deps.json
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\bin\Debug\net6.0\16.2.Ders.Constructors.runtimeconfig.json
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\bin\Debug\net6.0\16.2.Ders.Constructors.dll
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\bin\Debug\net6.0\ref\16.2.Ders.Constructors.dll
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\bin\Debug\net6.0\16.2.Ders.Constructors.pdb
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.csproj.AssemblyReference.cache
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.AssemblyInfoInputs.cache
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.AssemblyInfo.cs
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.csproj.CoreCompileInputs.cache
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.dll
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\ref\16.2.Ders.Constructors.dll
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.pdb
+C:\Users\gozde\C-Dersleri\16.2.Ders.Constructors\obj\Debug\net6.0\16.2.Ders.Constructors.genruntimeconfig.cache
